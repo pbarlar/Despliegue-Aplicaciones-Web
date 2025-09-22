@@ -1,5 +1,5 @@
-# Comunidades Git
-Bitbucket 
+# Comunidades Git BitBucket
+Pablo Barranco Lara
 
 ## Introducción
 El control de versiones es una práctica fundamental en el desarrollo de software moderno, ya que permite llevar un registro histórico de los cambios realizados en el código, colaborar entre múltiples desarrolladores y mantener diferentes versiones de un proyecto de manera organizada.  
