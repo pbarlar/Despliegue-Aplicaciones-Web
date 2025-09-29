@@ -42,3 +42,35 @@ def saludar(nombre):
 Como vemos las dos formas de utilizar son sencillas y dependen mas de la situación, si quieres comentar algo sencillo utilizar **#**, y si tienes que comentar el funcionamiento de una función y los parametros que se deben utilizar utilizar tres comillas dobles o simples **"""**.
 
 --- 
+
+## 🌐 JavaScript
+Para comentar código en JavaScript también existen dos formas: comentarios de una sola línea y comentarios en bloque de varias líneas.
+
+Para comentar una sola línea se utiliza el doble barra lateral **//** seguido del texto que quieres comentar.
+
+Ejemplo:
+```javascript
+// Esto suma dos números
+let resultado = 5 + 3;
+```
+
+Para comentar varias líneas en JavaScript se utiliza el símbolo **/\***
+ para abrir el comentario y **\*/** para cerrarlo. Es útil cuando quieres comentar un bloque de texto más largo o incluso varias líneas de código.
+
+Ejemplo:
+```javascript
+/**
+ * Esta función recibe dos números y devuelve la suma.
+ * Es útil para operaciones básicas de cálculo.
+ */
+function sumar(a, b) {
+    return a + b;
+}
+```
+
+También se puede usar este formato en una sola línea si se prefiere:
+```javascript
+/* Esto es un comentario corto en una sola línea */
+```
+
+---
